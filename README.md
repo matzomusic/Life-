@@ -30,4 +30,4 @@
 ### The egg then proceeeds to hatch and create this formation. I call it a bug:
 ##### ![hatching](resources/bug%20hatching.png)
 ## <br>
-### ...once this structure is formed it's very difficult to clear the entire grid, and the behaviour resembles a real ecosystem.
+### Once this structure is formed it's usually the birth of an entire ecosystem, but occasionally the cells will become stable and die. The conditions for life in this system are rare, but the results are very interesting. Try to keep pressing restart until an egg forms naturally, or click on a live cell, or pause the animation and create your own egg!
