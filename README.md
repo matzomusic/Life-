@@ -9,7 +9,7 @@
 #### Backspace: clear
 # 
 ###  <br>
-### This is the pattern that sets off a sprawling structure. I call it an egg:
+### This is the pattern that sets off a sprawling structure. The rotation doesn't matter. I call it an egg:
 ##### ![egg](resources/bug%20egg.png)
 ## <br>
 
