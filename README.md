@@ -1,4 +1,4 @@
-# Life
+# MZ's Game of Life
 
 ## Based on Conway's Game of Life except there are life stages, each with different rules.
 
